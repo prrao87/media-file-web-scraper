@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Python version: 3.6
 This script is specifically designed to download NHTSA media data from their web page
@@ -8,7 +7,7 @@ https://www-nrd.nhtsa.dot.gov/
 To use the script, the user just needs to input the NHTSA "test number", which is a 4 or 5 digit number
 The script generates the static web links and pulls the relevant media through Python 3's urllib.request
 
-Created by: Prashanth Rao (PR), Roush Industries
+Created by: Prashanth Rao (PR)
 Date: 06/21/2017
 """
 import os
